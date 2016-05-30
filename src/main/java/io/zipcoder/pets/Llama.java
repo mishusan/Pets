@@ -8,7 +8,7 @@ public class Llama extends Pets {
         setPetName(name);
     }
     public String speak() {
-        return "spit!";
+        return "Spit!";
     }
 
     }
